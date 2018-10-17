@@ -1,0 +1,11 @@
+{
+  "name": "Influx",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "influx": "^5.0.0-alpha.4",
+    "plotly": "^1.0.6"
+  }
+}
